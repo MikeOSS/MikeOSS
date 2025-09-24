@@ -1,6 +1,7 @@
 ### Miguel Fernandes Costacurta 👨‍💻
 ---
-### 🖥️ Software Engineering Student 🚀
+### 🖥️ Software Engineering Student 🚀 
+📍 Campinas, SP
 
 I'm a developer who combines strong communication skills with a drive for continuous learning. My journey in tech is fueled by the desire to tackle real-world challenges, with a special focus on the exciting field of Artificial Intelligence.
 ---
