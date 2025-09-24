@@ -1,4 +1,4 @@
-###👨‍💻 Miguel Fernandes Costacurta 👨‍💻
+### Miguel Fernandes Costacurta 👨‍💻
 ---
 ### 🖥️ Software Engineering Student 🚀
 
@@ -22,5 +22,7 @@ I'm a developer who combines strong communication skills with a drive for contin
 ---
 ### Statistic
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeOSS&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOSS&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikeOSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOSS&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
