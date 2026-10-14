@@ -30,15 +30,7 @@
         <p align="center"><code>Python</code> <code>Otimização</code> <code>Geolocalização</code> <code>APIs</code> <code>Algoritmos</code></p>
       </td>
     </tr>
-    <tr>
-      <td width="100%" valign="top">
-        <h3 align="center"><a href="https://github.com/MikeOSS/Site-Safe-Vision">Safe Vision</a></h3>
-        <p align="center"><strong>Monitoramento & Visão Computacional para Segurança</strong></p>
-        <p>Sistema de segurança e monitoramento baseado em visão computacional e inteligência artificial para detecção e acompanhamento de cenários de risco em tempo real. Reconhecido em mostras tecnológicas e de inovação.</p>
-        <hr />
-        <p align="center"><code>Computer Vision</code> <code>Python</code> <code>OpenCV</code> <code>IA</code> <code>Segurança</code></p>
-      </td>
-    </tr>
+
     <tr>
       <td width="100%" valign="top">
         <h3 align="center"><a href="https://github.com/MikeOSS/empresaFicticiaAutomacao">AltaCLP &middot; Alert Intelligence</a></h3>
