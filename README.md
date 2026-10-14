@@ -65,7 +65,7 @@
 <br />
 
 <h2 align="center">
-  <img src="assets/title-skills.svg" alt="Technical Skills & Core Tooling" />
+  <img src="assets/title-skills.svg" alt="Skills" />
 </h2>
 
 <p align="center">

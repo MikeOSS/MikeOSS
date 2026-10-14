@@ -20,7 +20,7 @@
     }
   </style>
   <text x="450" y="48" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="800" font-size="26" fill="#e6edf3" letter-spacing="4">
-    TECHNICAL SKILLS &amp; CORE TOOLING
+    SKILLS
   </text>
   <rect class="pulse" y="65" height="3" rx="1.5" fill="url(#accent)"/>
   <rect x="150" y="66" width="600" height="1" fill="url(#line)" opacity="0.15"/>
