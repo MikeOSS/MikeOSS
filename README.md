@@ -3,14 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-costacurta-8208432b9" target="_blank">
-    <img src="assets/btn-linkedin.svg" alt="LinkedIn" width="130" height="36" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:miguel.costacurta3@gmail.com">
-    <img src="assets/btn-email.svg" alt="Email" width="130" height="36" />
-  </a>&nbsp;&nbsp;
   <a href="https://mikeoss.github.io/Site-pessoal/" target="_blank">
-    <img src="assets/btn-portfolio.svg" alt="Portfolio" width="130" height="36" />
+    <img src="assets/btn-portfolio.svg" alt="Portfolio" width="120" height="32" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miguel-costacurta-8208432b9" target="_blank">
+    <img src="assets/btn-linkedin.svg" alt="LinkedIn" width="120" height="32" />
   </a>
 </p>
 
@@ -23,37 +20,41 @@
 </h2>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="100%" valign="top">
         <h3 align="center"><a href="https://github.com/MikeOSS/RouteX">RouteX</a></h3>
         <p align="center"><strong>Gestão & Otimização Logística de Rotas</strong></p>
         <p>Sistema desenvolvido para otimização e roteirização inteligente de trajetos operacionais, reduzindo custos em 15% na DVI Radiologia através de algoritmos de cálculo de rotas e integração com APIs de mapas.</p>
         <hr />
-        <p><code>Python</code> <code>Otimização</code> <code>Geolocalização</code> <code>APIs</code> <code>Algoritmos</code></p>
+        <p align="center"><code>Python</code> <code>Otimização</code> <code>Geolocalização</code> <code>APIs</code> <code>Algoritmos</code></p>
       </td>
-      <td width="50%" valign="top">
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
         <h3 align="center"><a href="https://github.com/MikeOSS/Site-Safe-Vision">Safe Vision</a></h3>
         <p align="center"><strong>Monitoramento & Visão Computacional para Segurança</strong></p>
         <p>Sistema de segurança e monitoramento baseado em visão computacional e inteligência artificial para detecção e acompanhamento de cenários de risco em tempo real. Reconhecido em mostras tecnológicas e de inovação.</p>
         <hr />
-        <p><code>Computer Vision</code> <code>Python</code> <code>OpenCV</code> <code>IA</code> <code>Segurança</code></p>
+        <p align="center"><code>Computer Vision</code> <code>Python</code> <code>OpenCV</code> <code>IA</code> <code>Segurança</code></p>
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
+      <td width="100%" valign="top">
         <h3 align="center"><a href="https://github.com/MikeOSS/empresaFicticiaAutomacao">AltaCLP &middot; Alert Intelligence</a></h3>
         <p align="center"><strong>Triagem Inteligente de Alertas Industriais com LLM</strong></p>
         <p>Painel operacional e motor inteligente para triagem de alertas industriais. Combina regras determinísticas e LLM (Groq / LLaMA) com Firebase Cloud Functions e Firestore para bloquear falsos positivos e otimizar despachos técnicos.</p>
         <hr />
-        <p><code>AI / LLM</code> <code>Groq</code> <code>Firebase</code> <code>Cloud Functions</code> <code>Node.js</code> <code>Firestore</code></p>
+        <p align="center"><code>AI / LLM</code> <code>Groq</code> <code>Firebase</code> <code>Cloud Functions</code> <code>Node.js</code> <code>Firestore</code></p>
       </td>
-      <td width="50%" valign="top">
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
         <h3 align="center"><a href="https://github.com/MikeOSS/PI_II_ES_TIME-23">NotaDez</a></h3>
         <p align="center"><strong>Sistema Integrado de Gestão Acadêmica</strong></p>
         <p>Plataforma robusta para gestão acadêmica desenvolvida no Projeto Integrador PUC-Campinas, contemplando lançamento e auditoria de notas, cálculo automatizado de médias, regras de avaliação e exportação de relatórios.</p>
         <hr />
-        <p><code>Java</code> <code>TypeScript</code> <code>Gestão Acadêmica</code> <code>Auditoria</code> <code>Full Stack</code></p>
+        <p align="center"><code>Java</code> <code>TypeScript</code> <code>Gestão Acadêmica</code> <code>Auditoria</code> <code>Full Stack</code></p>
       </td>
     </tr>
   </table>
