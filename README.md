@@ -4,21 +4,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-costacurta-8208432b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="assets/btn-linkedin.svg" alt="LinkedIn" width="130" height="36" />
   </a>&nbsp;&nbsp;
   <a href="mailto:miguel.costacurta3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="assets/btn-email.svg" alt="Email" width="130" height="36" />
   </a>&nbsp;&nbsp;
   <a href="https://mikeoss.github.io/Site-pessoal/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="assets/btn-portfolio.svg" alt="Portfolio" width="130" height="36" />
   </a>
 </p>
 
 <br />
+<img src="assets/divider.svg" alt="" width="100%" />
+<br />
 
----
-
-<h2 align="center">Featured Engineering Projects</h2>
+<h2 align="center">
+  <img src="assets/title-projects.svg" alt="Projects" />
+</h2>
 
 <div align="center">
   <table>
@@ -58,22 +60,24 @@
 </div>
 
 <br />
+<img src="assets/divider.svg" alt="" width="100%" />
+<br />
 
----
-
-<h2 align="center">Technical Skills & Tooling</h2>
+<h2 align="center">
+  <img src="assets/title-skills.svg" alt="Technical Skills & Core Tooling" />
+</h2>
 
 <p align="center">
-  <strong>Mobile & Frontend</strong>
+  <img src="assets/title-sub-frontend.svg" alt="Frontend & Mobile" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css&theme=dark" height="48" alt="Mobile & Frontend" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css&theme=dark" height="48" alt="Frontend & Mobile" />
 </p>
 
 <br />
 
 <p align="center">
-  <strong>Languages & Backend</strong>
+  <img src="assets/title-sub-backend.svg" alt="Languages & Backend" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,nodejs,mysql&theme=dark" height="48" alt="Languages & Backend" />
@@ -82,17 +86,19 @@
 <br />
 
 <p align="center">
-  <strong>Tools & Ecosystem</strong>
+  <img src="assets/title-also.svg" alt="Tools & Ecosystem" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase&theme=dark" height="48" alt="Tools & Ecosystem" />
 </p>
 
 <br />
+<img src="assets/divider.svg" alt="" width="100%" />
+<br />
 
----
-
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">
+  <img src="assets/title-analytics.svg" alt="GitHub Analytics" />
+</h2>
 
 <div align="center">
   <table border="0">
@@ -112,17 +118,3 @@
     </tr>
   </table>
 </div>
-
-<br />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-costacurta-8208432b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:miguel.costacurta3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://mikeoss.github.io/Site-pessoal/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
