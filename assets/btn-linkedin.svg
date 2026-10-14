@@ -1,14 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="32" viewBox="0 0 120 32">
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="38" viewBox="0 0 130 38">
   <defs>
-    <linearGradient id="blueLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#00b4d8"/>
+    <linearGradient id="blueLineLink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#00b4d8" />
     </linearGradient>
   </defs>
   <style>
-    .txt { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; font-weight: 600; fill: #e6edf3; letter-spacing: 0.5px; }
-    .line { stroke: url(#blueLine); stroke-width: 2; stroke-linecap: round; }
+    @media (prefers-color-scheme: light) {
+      .txt { fill: #1f2328; }
+      .bar { fill: #0969da; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .txt { fill: #e6edf3; }
+      .bar { fill: url(#blueLineLink); }
+    }
   </style>
-  <text class="txt" x="60" y="19" text-anchor="middle">LinkedIn</text>
-  <line class="line" x1="22" y1="27" x2="98" y2="27" />
+  <text class="txt" x="65" y="22" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3" letter-spacing="0.5px">LinkedIn</text>
+  <rect class="bar" x="15" y="29" width="100" height="3" rx="1.5" fill="#58a6ff" />
 </svg>

@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://mikeoss.github.io/Site-pessoal/" target="_blank">
-    <img src="assets/btn-portfolio.svg" alt="Portfolio" width="120" height="32" />
+    <img src="assets/btn-portfolio.svg" alt="Portfolio" width="130" height="38" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/miguel-costacurta-8208432b9" target="_blank">
-    <img src="assets/btn-linkedin.svg" alt="LinkedIn" width="120" height="32" />
+    <img src="assets/btn-linkedin.svg" alt="LinkedIn" width="130" height="38" />
   </a>
 </p>
 
