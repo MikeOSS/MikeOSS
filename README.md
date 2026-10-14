@@ -30,7 +30,6 @@
         <p align="center"><code>Python</code> <code>Otimização</code> <code>Geolocalização</code> <code>APIs</code> <code>Algoritmos</code></p>
       </td>
     </tr>
-
     <tr>
       <td width="100%" valign="top">
         <h3 align="center"><a href="https://github.com/MikeOSS/empresaFicticiaAutomacao">AltaCLP &middot; Alert Intelligence</a></h3>
